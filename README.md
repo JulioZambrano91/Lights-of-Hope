@@ -1,22 +1,32 @@
-//////////////////////////////////////
-/
-/
+//////////////////////////////////////.
+
+/.
+
+/.
+
 / NOTA: Los archivos con los datos preprocesados se encuentran
 / en las rama personales de cada uno
-/
-/
-////////////////////////////////////////
+/.
+
+/.
+
+////////////////////////////////////////.
 
 
 
 
 
+.
 
+.
 
+.
 
+.
 
+.
 
-
+.
 
 1. Nombre y función de los miembros del equipo Nombre de los Integrantes Papel a desempeñar en el equipo
    
