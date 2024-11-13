@@ -1,13 +1,21 @@
 //////////////////////////////////////.
 
 /.
-
 /.
-
-/ NOTA: Los archivos con los datos preprocesados se encuentran
-/ en las rama personales de cada uno
+/ NOTA: Buenas profesora, tuvimos un problema con el github que no le dejaban subir
+/. sus respectivos aportes a las ramas personales de cada uno, por lo tanto en la rama MASTER,
+/. Se encuentra el aporte de cada uno
 /.
-d
+/. Jose: Preprocesado de datos en el periodo 2013-2015 | Sobre calculo de promedio de afectado, mensual, anual, por paises y su respectiva region
+/.
+/. Angel: Preprocesado de datos en el periodo 2010-2012 | Sobre la relacion entre la magnitud y daños economicos
+/.
+/. Julio y Andrea: Preprocesado de datos desde 2016-2021 | Sobre la relacion entre magnitud y total de muertos
+/.
+/. NOTA 2: La idea principal de nosotros era dividirnos por periodo de tiempo y luego en un archivo aparte relacionar que las variantes se presentaba en cada periodo
+/. y porque variaba o que diferencias habrian. Pero luego nos dividimos los puntos sobre temas que podriamos usar ya que son interesante y cada uno se encargo de ello
+/. nos falta es poner todo en un orden y agruparlos todo en un mismo documento para facil compresion y lectura de informacion
+/.
 /.
 
 ////////////////////////////////////////.
@@ -39,15 +47,22 @@ d
 2. Descripción del proyecto
    
   Proyecto: Análisis de Desastres Naturales
+  
   Objetivo: analizar y comprender los patrones, tendencias y correlaciones entre diferentes tipos de desastres naturales y su impacto a lo largo del tiempo en diversas regiones del mundo.
   Datos de Estudio:
   
   Fecha: Fecha de ocurrencia del desastre.
+  
   Tipo de Desastre: Clasificación del desastre (por ejemplo, terremoto, inundación, tormenta).
+  
   País: País afectado.
+  
   Región: Región afectada.
+  
   Ubicación Específica: Ubicaciones afectadas dentro del país.
+  
   Magnitud/Intensidad: Medida de la magnitud o intensidad del desastre (por ejemplo, magnitud del terremoto, velocidad del viento).
+  
   Impacto: Número de personas afectadas, daños materiales, etc.
   
   Actividades:
