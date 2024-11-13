@@ -3,23 +3,15 @@
 /.
 /.
 
-/ NOTA: Buenas profesora, tuvimos un problema con el github que no le dejaban subir
-/. sus respectivos aportes a las ramas personales de cada uno, por lo tanto en la rama MASTER,
-/. Se encuentra el aporte de cada uno
-/.
+* NOTA: Buenas profesora, tuvimos un problema con el github que no le dejaban subir sus respectivos aportes a las ramas personales de cada uno, por lo tanto en la rama MASTER, Se encuentra el aporte de cada uno
 
-/. Jose: Preprocesado de datos en el periodo 2013-2015 | Sobre calculo de promedio de afectado, mensual, anual, por paises y su respectiva region
-/.
+   Jose: Preprocesado de datos en el periodo 2013-2015 | Sobre calculo de promedio de afectado, mensual, anual, por paises y su respectiva region
 
-/. Angel: Preprocesado de datos en el periodo 2010-2012 | Sobre la relacion entre la magnitud y daños economicos
-/.
+   Angel: Preprocesado de datos en el periodo 2010-2012 | Sobre la relacion entre la magnitud y daños economicos
 
-/. Julio y Andrea: Preprocesado de datos desde 2016-2021 | Sobre la relacion entre magnitud y total de muertos
-/.
+   Julio y Andrea: Preprocesado de datos desde 2016-2021 | Sobre la relacion entre magnitud y total de muertos
 
-/. NOTA 2: La idea principal de nosotros era dividirnos por periodo de tiempo y luego en un archivo aparte relacionar que las variantes se presentaba en cada periodo
-/. y porque variaba o que diferencias habrian. Pero luego nos dividimos los puntos sobre temas que podriamos usar ya que son interesante y cada uno se encargo de ello
-/. nos falta es poner todo en un orden y agruparlos todo en un mismo documento para facil compresion y lectura de informacion
+* NOTA 2: La idea principal de nosotros era dividirnos por periodo de tiempo y luego en un archivo aparte relacionar que las variantes se presentaba en cada periodo y porque variaba o que diferencias habrian. Pero luego nos dividimos los puntos sobre temas que podriamos usar ya que son interesante y cada uno se encargo de ello  nos falta es poner todo en un orden y agruparlos todo en un mismo documento para facil compresion y lectura de informacion
 
 /.
 /.
