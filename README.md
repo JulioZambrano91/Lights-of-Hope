@@ -18,7 +18,8 @@ lo conforman y a la vez explicar la correlacion de variables que tiene este proy
 
 * Breve descripción del proyecto:
   
-* Pagina web de nuestro proyecto:
+* Pagina web de nuestro proyecto: https://sites.google.com/view/proyectosics/inicio?authuser=0
+  
 ![image](https://github.com/user-attachments/assets/c7978d21-0d0a-45a6-aebd-0fb35cb93a69)
 
 
