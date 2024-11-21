@@ -1,7 +1,6 @@
 # Desastres Naturales Hidrologicos: Tendencias, patrones y correlaciones. 
 
-En este proyecto se busca analizar las tendencias, patrones y correlaciones de los desastres naturales hidrologicos, viendo cuales son los paises mas afectados, los años que mas accidente de este tipo hubo, explicar las variables principales que
-lo conforman y a la vez explicar la correlacion de variables que tiene este proyecto
+En este proyecto se busca analizar las tendencias, patrones y correlaciones de los desastres naturales hidrologicos, viendo cuales son los paises mas afectados, los años que mas accidente de este tipo hubo, explicar las variables principales que lo conforman y a la vez explicar la correlacion de variables que tiene este proyecto
 
 ## Tabla de contenidos
 
@@ -16,7 +15,7 @@ lo conforman y a la vez explicar la correlacion de variables que tiene este proy
 
 * Nombre del proyecto: Desastres Naturales Hidrologicos: Tendencias, patrones y correlaciones. 
 
-* Breve descripción del proyecto:
+* Breve descripción del proyecto:En este proyecto se busca analizar las tendencias, patrones y correlaciones de los desastres naturales hidrologicos, viendo cuales son los paises mas afectados, los años que mas accidente de este tipo hubo, explicar las variables principales que lo conforman y a la vez explicar la correlacion de variables que tiene este proyecto
   
 * Pagina web de nuestro proyecto: https://sites.google.com/view/proyectosics/inicio?authuser=0
   
