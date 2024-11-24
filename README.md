@@ -48,3 +48,8 @@ Integración del proyecto en una pág web
 - link: https://sites.google.com/view/lightsofhope/inicio
 - Arquitectura: Google Sites
 ![image](https://github.com/user-attachments/assets/927ab330-b790-408b-b50a-be6ba9a296ae)
+
+
+
+* Agradecimientos especiales para nuestros tutores: Jenny Remolina y Alvaro Arauz por la guia y enseñanza en todo este proyecto y por guiarnos tan bien en este programa SIC.
+  
